@@ -14,4 +14,4 @@ Clean user interface.
 ## Installation
 You can install the Tic Tac Toe app by downloading the APK file from the Releases section of this repository. After downloading, simply install the APK on your Android device.
 
- ### Contributions Are always Open 😄
+ ### Contributions Are always Open 😄.
